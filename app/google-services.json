@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414053631222",
+    "project_id": "projeto-sound-f9562",
+    "storage_bucket": "projeto-sound-f9562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414053631222:android:4b5eea38f942a4cccf58d7",
+        "android_client_info": {
+          "package_name": "br.com.dhsabreu.aulaspl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414053631222-2f0muhbhrseh4jppe19ct200vkke6ka7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh5WkRtX8noNzUZQZxVKxGqAz6lanZc7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414053631222-2f0muhbhrseh4jppe19ct200vkke6ka7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
